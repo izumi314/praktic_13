@@ -1,0 +1,10 @@
+C:\Users\Legion\Desktop\практики 2 семестр\13\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\практики 2 семестр\13\Wpf_Math_practice13\obj\Debug\MainWindow.g.cs
+C:\Users\Legion\Desktop\практики 2 семестр\13\Wpf_Math_practice13\obj\Debug\App.g.cs
+C:\Users\Legion\Desktop\практики 2 семестр\13\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13_MarkupCompile.cache
+C:\Users\Legion\Desktop\практики 2 семестр\13\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13_MarkupCompile.lref
+C:\Users\Legion\Desktop\практики 2 семестр\13  а\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\практики 2 семестр\13  а\Wpf_Math_practice13\obj\Debug\MainWindow.g.cs
+C:\Users\Legion\Desktop\практики 2 семестр\13  а\Wpf_Math_practice13\obj\Debug\App.g.cs
+C:\Users\Legion\Desktop\практики 2 семестр\13  а\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13_MarkupCompile.cache
+C:\Users\Legion\Desktop\практики 2 семестр\13  а\Wpf_Math_practice13\obj\Debug\Wpf_Math_practice13_MarkupCompile.lref
